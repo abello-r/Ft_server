@@ -1,4 +1,4 @@
-Los archivos .sh son scripts para facilitar el uso del Docker.
+Los archivos .sh son scripts para facilitar el uso de Docker.
 
 - Con el comando "sh clean.sh" Eliminas todos los contenedores e imagenes que tengas.
 
